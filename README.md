@@ -1,4 +1,4 @@
-﻿# UTS_JSP_22110456_ARYA-DUTHA-RAMADHAN
+
 <h1 align="center">🎬 UTS JSP - Sistem Pemesanan Tiket Bioskop</h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🧾 Deskripsi Project
 
-Aplikasi JSP ini memungkinkan pengguna untuk melakukan **pemesanan tiket bioskop** secara online, mirip dengan sistem yang digunakan oleh CGV atau XXI.  
+Aplikasi JSP ini memungkinkan pengguna untuk melakukan **pemesanan tiket bioskop** secara online,  
 Fitur utama:
 
 - 🎥 Memilih film dari daftar yang tersedia
@@ -32,13 +32,13 @@ Fitur utama:
 ---
 
 ## 📸 Tampilan Aplikasi
-<img src="" width="600"/>
+<img src="web/assets/INDEX.png" width="600"/>
 
 ### 🎟️ Form Pemesanan Tiket
-<img src="" width="600"/>
+<img src="web/assets/FORM.png" width="600"/>
 
-### 🧾 Struk Pemesanan (Gaya CGV)
-<img src="" width="600"/>
+### 🧾 Struk Pemesanan (Gaya Digital)
+<img src="web/assets/STRUK.png" width="600"/>
 
 ---
 
